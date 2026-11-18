@@ -1,6 +1,4 @@
 # Executive Advisor
-
-[![ci](https://github.com/AbdulAlharbi/exec-advisor/actions/workflows/ci.yml/badge.svg)](https://github.com/AbdulAlharbi/exec-advisor/actions/workflows/ci.yml)
 [![python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)](pyproject.toml)
 [![tests](https://img.shields.io/badge/tests-42%20passing-brightgreen)](tests/)
 [![license](https://img.shields.io/badge/license-MIT-black)](LICENSE)
